@@ -1,2 +1,2 @@
 # FoolNotes
-useful notes for programming skills 
+useful notes for programming skills ! 
